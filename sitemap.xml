@@ -3,9 +3,6 @@
 		<loc>https://rietjecreve.github.xn--io/pub-/index.html</loc>
 	</url>
 	<url>
-		<loc>https://rietjecreve.github.xn--io/pub-/page1.html</loc>
-	</url>
-	<url>
 		<loc>https://rietjecreve.github.xn--io/pub-/page2.html</loc>
 	</url>
 	<url>
@@ -13,5 +10,8 @@
 	</url>
 	<url>
 		<loc>https://rietjecreve.github.xn--io/pub-/page4.html</loc>
+	</url>
+	<url>
+		<loc>https://rietjecreve.github.xn--io/pub-/page5.html</loc>
 	</url>
 </urlset>
